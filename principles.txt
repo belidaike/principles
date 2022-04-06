@@ -1,0 +1,15 @@
+Design Guidelines: 
+
+	Less than 5 colors(to avoid confusion)
+	White spacing
+	Heirachy
+	Font not more than 3
+	Navigation should be simple
+
+Needs:
+
+	API(database) - MysqlPhp
+	Bootstap (optional)
+	jquery
+	Laravel (optional)
+	
